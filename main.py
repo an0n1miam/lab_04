@@ -152,6 +152,7 @@ def main():
         write_to_file([item.get_collection() for item in sort_by_age])  # записываем в файл в виде словаря
 
     # comment for test - just make some changes
+    # comment [2] - for test branch_1 branch
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
