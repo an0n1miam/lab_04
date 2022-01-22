@@ -154,6 +154,8 @@ def main():
     # comment for test - just make some changes
     # comment [3] - for test branch_2 branch
 
+    # comment [4] - for conflict
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()
